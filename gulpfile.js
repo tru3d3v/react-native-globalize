@@ -73,7 +73,8 @@ const currencies = [
   'CAD',          // Canadian Dollar
   'EUR',          // Euro
   'GBP',          // British Pound
-  'USD',          // US Dollar
+  'USD',          // US Dollar,
+  'IDR'           // Indonesian Rupiah
 ];
 
 const files = ['ca-gregorian', 'currencies', 'dateFields', 'numbers', 'timeZoneNames', 'units'];
